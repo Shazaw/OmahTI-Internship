@@ -20,5 +20,7 @@ Aloysius Pijar Hutama Indrianto
 **IA/HD**
 
 **Deployment**
+
 Frontend: https://oticonnect.vercel.app/
+
 Backend: https://oticonnect.onrender.com
