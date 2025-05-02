@@ -1,0 +1,16 @@
+.env:
+DATABASE_URL:postgresql://postgres.ikapmtdouonjjjpnbowl:T3nacit@5@aws-0-ap-southeast-1.pooler.supabase.com:6543/postgres
+FRONTEND_URL:https://oticonnect.vercel.app/
+GOOGLE_CALLBACK_URL:https://oticonnect.onrender.com/api/auth/google/callback
+GOOGLE_CLIENT_ID:762118421444-ca3l14j41167t2o1rgc3mp4kq9v83d5c.apps.googleusercontent.com
+GOOGLE_CLIENT_SECRET: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
+JWT_EXPIRES_IN:24h
+JWT_SECRET:5732c764d26db7e92307c875d6bbc26ea5dbf108475558cdf03020882e87e1309760da802c1407269a448f72e21360650684d9ddf429aac5b07bc5d532307681
+
+Authorized Javascript Origins:
+https://oticonnect.vercel.app
+
+Authorized Redirect URLs:
+https://oticonnect.onrender.com/api/auth/google/callback
+https://oticonnect.vercel.app/auth/callback
+
